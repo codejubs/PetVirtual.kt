@@ -1,6 +1,6 @@
 Pet Virtual.
 
-Aqui eu fiz uma melhora dentro do codigo base "PetVirtual.kt", add novas regras, novos elementos e funcões.
+Aqui eu fiz uma melhora dentro do codigo base "PetVirtual.kt", adicionei novas regras, novos elementos e funcões.
 
 Objetivo do game é:
 - O Jogador precisa chegar à idade 50.
